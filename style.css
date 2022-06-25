@@ -1,0 +1,24 @@
+*{
+    background-image: url("background flower.jpeg");
+    background-position: center top;
+    background-repeat: repeat;
+    letter-spacing: normal;
+    font-family: "Comic Sans", "Times New Roman", serif;
+}
+h1 {
+  color: white;
+  font-weight: italic, bold;
+  text-align: center;
+  
+}
+p {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+img {
+  margin: auto;
+  display: block;
+  width: 50%;
+}
